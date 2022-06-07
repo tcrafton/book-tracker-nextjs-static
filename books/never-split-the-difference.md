@@ -5,6 +5,9 @@ excerpt: 'A former international hostage negotiator for the FBI offers a new fie
 cover_image: '/images/books/NeverSplitTheDifference.jpg'
 category: 'Audio'
 author: 'Chris Voss'
+lastCompleted: 'January 23, 2021'
+timesCompleted: 1
+type: 'Nonfiction'
 ---
 
 After a stint policing the rough streets of Kansas City, Missouri, Chris Voss joined the FBI, where his career as a hostage negotiator brought him face-to-face with a range of criminals, including bank robbers and terrorists. Reaching the pinnacle of his profession, he became the FBI's lead international kidnapping negotiator.

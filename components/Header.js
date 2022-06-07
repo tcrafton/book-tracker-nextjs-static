@@ -17,6 +17,11 @@ export default function Header() {
               Books
             </a>
           </Link>
+          <Link href="/history">
+            <a className="mx-5 cursor-pointer uppercase hover:text-indigo-300">
+              History
+            </a>
+          </Link>
           <Link href="/about">
             <a className="mx-5 cursor-pointer uppercase hover:text-indigo-300">
               About

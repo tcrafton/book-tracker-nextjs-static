@@ -8,6 +8,7 @@ author: 'Jordan B. Peterson'
 length: '409 pages'
 lastCompleted: 'January 10, 2020'
 timesCompleted: 1
+type: 'Nonfiction'
 ---
 
 **\#1 NATIONAL BESTSELLER**

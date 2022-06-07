@@ -5,6 +5,9 @@ excerpt: 'The Dale Carnegie Course on Effective Speaking, Personality Developmen
 cover_image: '/images/books/HowToWinFriendsInfluencePeople.jpg'
 category: 'Paperback'
 author: 'Dale Carnegie'
+lastCompleted: 'February 23, 2022'
+timesCompleted: 1
+type: 'Nonfiction'
 ---
 
 You can go after the job you want—and get it!

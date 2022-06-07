@@ -17,7 +17,7 @@ export default function Book({ book, compact }) {
 
       <div className="flex justify-between items-center">
         <span className="font-light text-gray-600">
-          {book.frontmatter.date}
+          {book.frontmatter.lastCompleted}
         </span>
         <CategoryLabel>{book.frontmatter.category}</CategoryLabel>
       </div>

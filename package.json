@@ -11,8 +11,11 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
     "gray-matter": "^4.0.3",
     "marked": "^4.0.16",
+    "material-table": "^1.69.3",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",

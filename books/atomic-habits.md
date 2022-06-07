@@ -8,6 +8,7 @@ author: 'James Clear'
 length: '320 pages'
 lastCompleted: 'January 10, 2021'
 timesCompleted: 1
+type: 'Nonfiction'
 ---
 
 **The number one New York Times best seller. Over one million copies sold!**

@@ -5,6 +5,9 @@ excerpt: 'Timeless lessons on wealth, greed, and happiness'
 cover_image: '/images/books/ThePsychologyOfMoney.jpg'
 category: 'Paperback'
 author: 'Morgan Housel'
+lastCompleted: 'March 10, 2022'
+timesCompleted: 1
+type: 'Nonfiction'
 ---
 
 Doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people.

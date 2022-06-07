@@ -5,6 +5,9 @@ excerpt: 'The definitive story of Amazon.com, one of the most successful compani
 cover_image: '/images/books/TheEverythingStore.jpg'
 category: 'Audio'
 author: 'Brad Stone'
+lastCompleted: 'February 22, 2022'
+timesCompleted: 1
+type: 'Nonfiction'
 ---
 
 Amazon.com started off delivering books through the mail. But its visionary founder, Jeff Bezos, wasn't content with being a bookseller. He wanted Amazon to become the everything store, offering limitless selection and seductive convenience at disruptively low prices. To do so, he developed a corporate culture of relentless ambition and secrecy that's never been cracked. Until now.
