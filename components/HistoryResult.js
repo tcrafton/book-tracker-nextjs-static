@@ -3,8 +3,6 @@ import Image from 'next/image';
 import CustomTable from './CustomTable';
 
 export default function HistoryResult({ books }) {
-  console.log(books);
-
   const tableColumns = [
     {
       title: '',
