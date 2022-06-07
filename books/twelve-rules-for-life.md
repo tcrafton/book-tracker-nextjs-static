@@ -5,6 +5,9 @@ excerpt: 'An antidote to chaos'
 cover_image: '/images/books/TwelveRulesForLife.jpg'
 category: 'Hardcover'
 author: 'Jordan B. Peterson'
+length: '409 pages'
+lastCompleted: 'January 10, 2020'
+timesCompleted: 1
 ---
 
 **\#1 NATIONAL BESTSELLER**

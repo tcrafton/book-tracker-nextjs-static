@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Layout from '@/components/Layout';
 import Book from '@/components/Book';
-// import Pagination from '@/components/Pagination';
+import Pagination from '@/components/Pagination';
 import CategoryList from '@/components/CategoryList';
 import { BOOKS_PER_PAGE } from '@/config/index';
 import { getBooks } from '@/lib/books';
@@ -20,7 +20,7 @@ export default function BookPage({ books, numPages, currentPage, categories }) {
             ))}
           </div>
 
-          {/* <Pagination currentPage={currentPage} numPages={numPages} /> */}
+          <Pagination currentPage={currentPage} numPages={numPages} />
         </div>
 
         <div className="w-1/4">

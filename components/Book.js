@@ -3,7 +3,6 @@ import Image from 'next/image';
 import CategoryLabel from './CategoryLabel';
 
 export default function Book({ book, compact }) {
-  console.log(book);
   return (
     <div className="w-full px-10 py-6 bg-white rounded-lg shadow-md mt-6">
       {!compact && (
@@ -11,7 +10,7 @@ export default function Book({ book, compact }) {
           src={book.frontmatter.cover_image}
           alt=""
           height={420}
-          width={600}
+          width={500}
           className="mb-4 rounded"
         />
       )}

@@ -8,7 +8,6 @@ import matter from 'gray-matter';
 import { getBooks } from '@/lib/books';
 
 export default function CategoryBookPage({ books, categoryName, categories }) {
-  console.log(books);
   return (
     <Layout>
       <div className="flex justify-between">

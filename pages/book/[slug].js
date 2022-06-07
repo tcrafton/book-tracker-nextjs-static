@@ -3,6 +3,7 @@ import path from 'path';
 import Link from 'next/link';
 import matter from 'gray-matter';
 import { marked } from 'marked';
+import Image from 'next/image';
 import Layout from '@/components/Layout';
 import CategoryLabel from '@/components/CategoryLabel';
 
@@ -19,7 +20,13 @@ export default function BookPage({
           <h1 className="text-5xl mb-7">{title}</h1>
           <CategoryLabel>{category}</CategoryLabel>
         </div>
-        <img src={cover_image} alt="" className="w-full rounded" />
+        <Image
+          src={cover_image}
+          alt=""
+          height={500}
+          width={550}
+          className="w-full rounded"
+        />
 
         <div className="flex justify-between items-center bg-gray-100 p-2 my-8">
           <div className="flex items-center">
