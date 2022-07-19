@@ -5,6 +5,7 @@ excerpt: 'The definitive story of Amazon.com, one of the most successful compani
 cover_image: '/images/books/TheEverythingStore.jpg'
 category: 'Audio'
 author: 'Brad Stone'
+length: '13 hours'
 lastCompleted: 'February 22, 2022'
 timesCompleted: 1
 type: 'Nonfiction'

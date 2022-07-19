@@ -10,7 +10,7 @@ export default function Book({ book, compact }) {
           src={book.frontmatter.cover_image}
           alt=""
           height={420}
-          width={500}
+          width={380}
           className="mb-4 rounded"
         />
       )}

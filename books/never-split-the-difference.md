@@ -5,6 +5,7 @@ excerpt: 'A former international hostage negotiator for the FBI offers a new fie
 cover_image: '/images/books/NeverSplitTheDifference.jpg'
 category: 'Audio'
 author: 'Chris Voss'
+length: '8 hours, 7 minutes'
 lastCompleted: 'January 23, 2021'
 timesCompleted: 1
 type: 'Nonfiction'

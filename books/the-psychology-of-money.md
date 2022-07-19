@@ -5,6 +5,7 @@ excerpt: 'Timeless lessons on wealth, greed, and happiness'
 cover_image: '/images/books/ThePsychologyOfMoney.jpg'
 category: 'Paperback'
 author: 'Morgan Housel'
+length: '256 pages'
 lastCompleted: 'March 10, 2022'
 timesCompleted: 1
 type: 'Nonfiction'

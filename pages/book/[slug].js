@@ -24,7 +24,7 @@ export default function BookPage({
           src={cover_image}
           alt=""
           height={500}
-          width={550}
+          width={450}
           className="w-full rounded"
         />
 

@@ -5,6 +5,7 @@ excerpt: 'Classic novel by J.D. Salinger'
 cover_image: '/images/books/CatcherInTheRye.jpg'
 category: 'Paperback'
 author: 'J.D. Salinger'
+length: '288 pages'
 lastCompleted: 'December 30, 2021'
 timesCompleted: 1
 type: 'Fiction'
