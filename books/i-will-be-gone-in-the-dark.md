@@ -2,7 +2,7 @@
 title: "I'll Be Gone in the Dark"
 date: 'February 27, 2018'
 excerpt: "One Woman's Obsessive Search for the Golden State Killer"
-cover_image: '/images/books/WhatTheDogSaw.jpg'
+cover_image: '/images/books/IWillBeGoneInTheDark.jpg'
 category: 'Audio'
 author: 'Michelle McNamara'
 length: '10 hours 7 minutes'
